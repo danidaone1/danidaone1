@@ -1,6 +1,6 @@
-<h1 align="center">Daniyal Hussan</h1> 
+<h1 align="center">Daniyal Hassan</h1> 
 <h3 align="center" style="margin-bottom: 5px;">
-  <b>🎓 Computer Science Student | 💻 Digital Craftsman | 🎮 Game Dev</b>
+  <b>🎓 Computer Science Student | 💻 Digital Craftsman |⚙️ Ai Engineer</b>
 </h3>
 
 <p align="justify">
@@ -12,11 +12,11 @@ Always eager to learn, build, and collaborate! 🚀
 <table align="center">
     <tr>
       <th>🔭 Currently Working On</th>
-      <td>Cross-Platform Apps & Game Development</td>
+      <td>Cross-Platform Apps & Ai Engineering</td>
     </tr>
     <tr>
       <th>📚 Currently Learning</th>
-      <td>React Native · Flutter · Unity · LLMs</td>
+      <td>Python · SQL · Machine Learning · Pandas</td>
     </tr>
     <tr>
       <th>🫱🏽‍🫲🏾 Collaborating On</th>
