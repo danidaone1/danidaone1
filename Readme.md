@@ -24,7 +24,7 @@ Always eager to learn, build, and collaborate! 🚀
     </tr>
     <tr>
       <th>👨‍💻 My Projects</th>
-      <td><a href="https://github.com/Sye0x?tab=repositories" target="_blank">View My GitHub Repositories</a></td>
+      <td><a href="https://github.com/danidaone1?tab=repositories" target="_blank">View My GitHub Repositories</a></td>
     </tr>
     <tr>
       <th>📫 Contact Me</th>
