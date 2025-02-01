@@ -28,15 +28,15 @@ Always eager to learn, build, and collaborate! 🚀
     </tr>
     <tr>
       <th>📫 Contact Me</th>
-      <td><a href="mailto:s.r.mahamid@gmail.com">s.r.mahamid@gmail.com</a></td>
+      <td><a href="mailto:daniscode678@gmail.com">daniscode678@gmail.com</a></td>
     </tr>
   </table>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <h2 align="center">Stats</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=transparent" alt="Mohamid's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sye0x&theme=transparent" alt="sye0x" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danidaone1&show_icons=true&theme=transparent" alt="Mohamid's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danidaone1&theme=transparent" alt="sye0x" />
 </div>
 
 <h2 align="center">Languages</h2>
@@ -118,10 +118,6 @@ Always eager to learn, build, and collaborate! 🚀
   </tr>
 </table>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/syed mohamid raza nadvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed mohamid raza nadvi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohamid raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamid raza" height="30" width="40" /></a>
 </p><div align="center">
   <img src="https://github.com/danidaone1/Git-Snake-Game/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
