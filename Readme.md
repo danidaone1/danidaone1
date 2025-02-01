@@ -118,8 +118,15 @@ Always eager to learn, build, and collaborate! 🚀
   </tr>
 </table>
 
+
 </p><div align="center">
   <img src="https://github.com/danidaone1/Git-Snake-Game/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed mohamid raza nadvi" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamid raza" height="30" width="40" /></a>
+</p>
 
 <h2 align="center">Hope you have a wonderful day🎇</h2>
